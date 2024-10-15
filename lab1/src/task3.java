@@ -7,7 +7,7 @@ public class task3 {
             result[i] = sum % 10;
             carry = sum / 10;
         }
-        System.out.println(result);
+        printArray(result);
     }
 
     public static void diffLargeNumbers(int[] num1, int[] num2) {
@@ -20,7 +20,7 @@ public class task3 {
             }
             result[i] = diff;
         }
-        System.out.println(result);
+        printArray(result);
     }
 
     public static void printArray(int[] arr) {
