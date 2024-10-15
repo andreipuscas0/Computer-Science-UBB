@@ -21,4 +21,34 @@ public class task2 {
         System.out.println("Min Number: " + min);
     }
 
+    public static void findMaxSum(int[] numbers) {
+        int sum = 0, min = numbers[0];
+        for (int num : numbers) {
+            sum += num;
+            if (num < min) {
+                min = num;
+            }
+        }
+        System.out.println("Max Sum of n-1 Numbers: " + (sum - min));
+    }
+
+    public static void findMinSum(int[] numbers) {
+        int sum = 0, max = numbers[0];
+        for (int num : numbers) {
+            sum += num;
+            if (num > max) {
+                max = num;
+            }
+        }
+        System.out.println("Min Sum of n-1 Numbers: " + (sum - max));
+    }
+
+    public static void main(String[] args) {
+        int[] numbers = {4, 8, 3, 10, 17};
+
+        findMaxNumber(numbers);
+        findMinNumber(numbers);
+        findMaxSum(numbers);
+        findMinSum(numbers);
+    }
 }
