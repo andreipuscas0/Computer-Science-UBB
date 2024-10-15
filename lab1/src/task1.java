@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class task1 {
     public static void findFailingGrades(int[] grades) {
         System.out.print("Failing grades: ");
