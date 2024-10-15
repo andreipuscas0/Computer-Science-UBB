@@ -22,4 +22,22 @@ public class task3 {
         }
         System.out.println(result);
     }
+
+    public static void printArray(int[] arr) {
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+        int[] num1 = {1, 3, 0, 0, 0, 0, 0, 0, 0};
+        int[] num2 = {8, 7, 0, 0, 0, 0, 0, 0, 0};
+
+        System.out.print("Sum: ");
+        sumLargeNumbers(num1, num2);
+
+        System.out.print("Difference: ");
+        diffLargeNumbers(num1, num2);
+    }
 }
