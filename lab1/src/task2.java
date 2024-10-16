@@ -1,6 +1,5 @@
 public class task2 {
 
-
     public static void findMaxNumber(int[] numbers) {
         int max = numbers[0];
         for (int num : numbers) {
@@ -26,10 +25,10 @@ public class task2 {
         for (int num : numbers) {
             sum += num;
             if (num < min) {
-                min = num;
+                min = num; //tinem minte nr minim
             }
         }
-        System.out.println("Max Sum of n-1 Numbers: " + (sum - min));
+        System.out.println("Max Sum of n-1 Numbers: " + (sum - min)); //aflam suma max scazand nr minim
     }
 
     public static void findMinSum(int[] numbers) {
@@ -37,10 +36,10 @@ public class task2 {
         for (int num : numbers) {
             sum += num;
             if (num > max) {
-                max = num;
+                max = num; //tinem minte nr maxim
             }
         }
-        System.out.println("Min Sum of n-1 Numbers: " + (sum - max));
+        System.out.println("Min Sum of n-1 Numbers: " + (sum - max)); //aflam suma minima scazand nr maxim
     }
 
     public static void main(String[] args) {
