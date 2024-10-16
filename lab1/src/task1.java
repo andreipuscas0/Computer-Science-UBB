@@ -1,4 +1,5 @@
 public class task1 {
+
     public static void findFailingGrades(int[] grades) {
         System.out.print("Failing grades: ");
         for (int grade : grades) {
@@ -14,14 +15,14 @@ public class task1 {
         for (int grade : grades) {
             sum += grade;
         }
-        double average = (double) sum / grades.length;
+        double average = (double) sum / grades.length; //imparte suma la nr de nnote
         System.out.println("Average grade: " + average);
     }
 
     public static void roundGrades(int[] grades) {
         System.out.print("Round grades: ");
         for (int grade : grades) {
-            if (grade >= 38 && (5 - (grade % 5)) < 3) {
+            if (grade >= 38 && (5 - (grade % 5)) < 3) { //conditiile de rotunjire
                 System.out.print(grade + " ");
             }
             System.out.println();
