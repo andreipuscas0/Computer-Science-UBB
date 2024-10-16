@@ -1,15 +1,15 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Running Task 1");
+        System.out.println("Task 1");
         task1.main(args);
 
-        System.out.println("\nRunning Task 2");
+        System.out.println("\nTask 2");
         task2.main(args);
 
-        System.out.println("\nRunning Task 3");
+        System.out.println("\nTask 3");
         task3.main(args);
 
-        System.out.println("\nRunning Task 4");
+        System.out.println("\nTask 4");
         task4.main(args);
     }
 }
