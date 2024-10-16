@@ -1,4 +1,5 @@
 public class task4 {
+
     public static void findCheapestKeyboard(int[] keyboards) {
         int min = keyboards[0];
         for (int k : keyboards) {
