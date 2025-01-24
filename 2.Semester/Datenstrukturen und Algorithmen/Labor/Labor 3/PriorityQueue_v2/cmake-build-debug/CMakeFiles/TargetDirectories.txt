@@ -1,3 +1,0 @@
-D:/Informatica/C++/CLion_projects/DSA/Labor 3/PriorityQueue_v2/cmake-build-debug/CMakeFiles/priorityqueue.dir
-D:/Informatica/C++/CLion_projects/DSA/Labor 3/PriorityQueue_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Informatica/C++/CLion_projects/DSA/Labor 3/PriorityQueue_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
