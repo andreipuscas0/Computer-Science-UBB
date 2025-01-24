@@ -1,0 +1,19 @@
+#Labor 4: A1 Simulation  zufallige  Werte  fur X  
+import numpy  
+N=3
+x=[0,1,3,5]
+P=[0.4,0.1,0.3,0.2]
+rng = numpy.random.default_rng()
+r=rng.choice(x, size=N , replace=True, p=P)
+print(r)
+
+
+#Labor 4: A3 Beispiel
+from scipy.stats import binom
+N=10;n=8; p=0.5
+X = binom.rvs(n, p,size= N)
+print(N,"zufallige Werte fur X:")
+print(X)
+k=5
+w=binom.pmf(k,n,p) 
+print("binom.pmf(",k,",",n,",",p,") berechnet die Wkt. P( X =",k,f")={w:.5f}") 
