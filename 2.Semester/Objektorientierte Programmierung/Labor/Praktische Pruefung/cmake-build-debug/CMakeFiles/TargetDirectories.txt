@@ -1,0 +1,3 @@
+D:/Informatica/C++/CLion_projects/OOP/Praktische Pruefung/cmake-build-debug/CMakeFiles/Praktische_Pruefung.dir
+D:/Informatica/C++/CLion_projects/OOP/Praktische Pruefung/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Informatica/C++/CLion_projects/OOP/Praktische Pruefung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
