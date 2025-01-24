@@ -1,3 +1,0 @@
-D:/ComputerScience/C++/CLion_projects/OOP/Labor 1/Lab1UItest/cmake-build-debug/CMakeFiles/Lab1UItest.dir
-D:/ComputerScience/C++/CLion_projects/OOP/Labor 1/Lab1UItest/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/ComputerScience/C++/CLion_projects/OOP/Labor 1/Lab1UItest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
