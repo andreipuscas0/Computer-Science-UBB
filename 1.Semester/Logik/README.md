@@ -1,1 +1,0 @@
-Vorlesungen aus dem Logikkurs
