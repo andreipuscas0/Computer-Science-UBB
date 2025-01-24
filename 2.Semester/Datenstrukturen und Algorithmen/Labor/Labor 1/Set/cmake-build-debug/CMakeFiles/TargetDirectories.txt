@@ -1,0 +1,3 @@
+D:/Informatica/C++/CLion projects/DSA/Labor 1 (Set)/Set/cmake-build-debug/CMakeFiles/Set.dir
+D:/Informatica/C++/CLion projects/DSA/Labor 1 (Set)/Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Informatica/C++/CLion projects/DSA/Labor 1 (Set)/Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
