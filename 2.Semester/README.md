@@ -1,1 +1,1 @@
-Hier sind die Projekte, die ich im zweiten Semester durchgeführt habe
+Hier sind die Themen und Projekte, die ich im zweiten Semester durchgeführt habe
