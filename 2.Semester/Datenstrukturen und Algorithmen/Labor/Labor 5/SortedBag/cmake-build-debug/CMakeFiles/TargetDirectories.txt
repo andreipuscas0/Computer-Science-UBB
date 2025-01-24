@@ -1,0 +1,3 @@
+D:/Informatica/C++/CLion_projects/DSA/Labor 5/SortedBag/cmake-build-debug/CMakeFiles/SortedBag.dir
+D:/Informatica/C++/CLion_projects/DSA/Labor 5/SortedBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Informatica/C++/CLion_projects/DSA/Labor 5/SortedBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
