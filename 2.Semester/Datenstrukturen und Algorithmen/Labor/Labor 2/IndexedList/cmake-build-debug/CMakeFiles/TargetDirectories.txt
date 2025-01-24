@@ -1,0 +1,3 @@
+D:/Informatica/C++/CLion projects/DSA/Labor 2/IndexedList/cmake-build-debug/CMakeFiles/Labor_2__IndexedList_.dir
+D:/Informatica/C++/CLion projects/DSA/Labor 2/IndexedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Informatica/C++/CLion projects/DSA/Labor 2/IndexedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
